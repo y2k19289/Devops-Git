@@ -1,1 +1,2 @@
- Test the Push!
+ Test the stash! 
+New test with other file !
