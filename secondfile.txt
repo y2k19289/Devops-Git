@@ -1,2 +1,8 @@
 This is a new file from y2k version01
-I am now tetsting the merge issue
+
+We are  now tetsting the merge issue
+
+ We arethe owner of the file now!  Mr X and Y
+
+The conflict is now resolved !
+
